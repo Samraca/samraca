@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A passionate developer from Colombia, I am a person with strong values, with a belief in honesty and good relationships as the basis for the construction of work and team ethics and work environments. I see and experience the capacity of technology to transform environments and its ability to enhance human capital, I am active, dynamic, energetic and enthusiastic. I am willing to learn and master new and better ways to expand technology and its relationship with human beings. I am used to working under pressure, dynamic and complex situations and I find passion in taking projects forward that require my effort.</h3>
+<h3 align="center">A passionate developer from Colombia. </h3>
+<h4 align = "center"> I am a person with strong values, with a belief in honesty and good relationships as the basis for the construction of work and team ethics and work environments. I see and experience the capacity of technology to transform environments and its ability to enhance human capital, I am active, dynamic, energetic and enthusiastic. I am willing to learn and master new and better ways to expand technology and its relationship with human beings. I am used to working under pressure, dynamic and complex situations and I find passion in taking projects forward that require my effort. </h4>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samraca" alt="samraca" /></a> </p>
